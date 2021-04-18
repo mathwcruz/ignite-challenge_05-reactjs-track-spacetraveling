@@ -36,6 +36,8 @@
 }
 
 .postTop {
+  margin-bottom: 4rem;
+
   > h1 {
     font-size: 3rem;
     color: var(--heading);
@@ -47,7 +49,6 @@
     margin: 0;
     list-style: none;
     display: flex;
-    margin-bottom: 4rem;
 
     & li {
       margin: 0;
@@ -61,5 +62,40 @@
         margin-left: 1.625rem;
       }
     }
+  }
+
+  > span {
+    margin-top: 1rem;
+    display: block;
+    font-style: italic;
+    font-size: 0.875rem;
+    color: var(--info);
+  }
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid var(--border);
+
+  h3 {
+    font-size: 1.125rem;
+    font-weight: 400;
+    color: var(--heading);
+    margin-bottom: 0.5rem;
+  }
+
+  a {
+    color: var(--highlight);
+    font-weight: 600;
+  }
+
+  div {
+    padding-top: 3rem;
+  }
+
+  div + div {
+    text-align: right;
   }
 }
