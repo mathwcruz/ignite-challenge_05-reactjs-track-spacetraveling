@@ -1,15 +1,14 @@
-import Link from "next/link";
-
+import Link from 'next/link';
 import styles from './header.module.scss';
 
-export default function Header() {
+export default function Header(): JSX.Element {
   return (
-    <header className={styles.postHeader}>
-      <Link href="/">
-        <a>
-          <img src="/images/logo.svg" alt="logo"/>
-        </a>
-      </Link>
-    </header>
+    <Link href="/">
+      <header className={styles.container}>
+        <div className={styles.content}>
+          <img src="/images/logo.svg" alt="logo" />
+        </div>
+      </header>
+    </Link>
   );
-};
+}

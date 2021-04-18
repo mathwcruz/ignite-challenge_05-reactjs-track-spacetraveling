@@ -5,12 +5,12 @@
 }
 
 :root {
+  --white: #FFFFFF;
   --highlight: #FF57B2;
   --heading: #F8F8F8;
   --background: #1A1D23;
   --info: #BBBBBB;
   --body: #D7D7D7;
-  --border: #282C34;
 }
 
 @media (max-width: 1080px) {
@@ -26,12 +26,12 @@
 }
 
 body {
-  background-color: var(--background);
-  color: var(--body);
+  background: var(--background);
+  color: var(--white);
 }
 
 body, input, textarea, select, button {
-  font: 400 1rem 'Inter', sans-serif;
+  font: 400 1rem "Inter", sans-serif;
 }
 
 button {
