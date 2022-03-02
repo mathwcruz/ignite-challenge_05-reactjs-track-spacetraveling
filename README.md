@@ -56,10 +56,6 @@ Desenvolvido por Matheus da Cruz 😊
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 <br>
 
-## **<p align="center">Thank you very much to the people of Rocketseat 🚀 for the excellent content and didactics, it is clear the impact of this company in my studies 🙂</p>**
-
 ## **<p align="center">Starting the walk to be able to participate in the marathon in this world of programming 🏃‍</p>**
 
 ### <p> <h2 align="center">Another application by Matheus da Cruz 👨‍💻 </h2> </p>
-
-
