@@ -13,11 +13,11 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-<img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="next" width="70" height="70"/>
-<img src="https://seeklogo.com/images/P/prismic-logo-F6A173E6D0-seeklogo.com.png" alt="prismic" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/sass_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvc2Fzc19pY29uLnN2ZyIsImlhdCI6MTY0NjI0NjcwNywiZXhwIjoxOTYxNjA2NzA3fQ.zoXN2EJOGG3WUght1FFMYGtpO3_UoChdjWubyL7n7wQ" alt="sass" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/react_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVhY3RfaWNvbi5zdmciLCJpYXQiOjE2NDYyNDY1NjEsImV4cCI6MTk2MTYwNjU2MX0.rEGrv6fy9osG8okJAocY2LAe92rygmldkoNGTPggmvA" alt="react" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/typescript_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdHlwZXNjcmlwdF9pY29uLnN2ZyIsImlhdCI6MTY0NjI0NjcyNiwiZXhwIjoxOTYxNjA2NzI2fQ.W404dqHwT_A4lfmg7st0cyj1aJxJH3PZtCnux_iVv_s" alt="typescript" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/next_js_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvbmV4dF9qc19pY29uLnN2ZyIsImlhdCI6MTY0NjI0Njk3OSwiZXhwIjoxOTYxNjA2OTc5fQ.P8SXCjnPcBYB-hHPvvvXYZ4wNA3YzLMDNeNhPfy0G0U" alt="next" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/prismic_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcHJpc21pY19pY29uLnBuZyIsImlhdCI6MTY0NjI0Njk4OCwiZXhwIjoxOTYxNjA2OTg4fQ.0KlBo-BYl0J4qN6POdq4ric22GzV4ounKuh_-uIaI50" alt="prismic" width="70" height="70"/>
 
 </p>
 
