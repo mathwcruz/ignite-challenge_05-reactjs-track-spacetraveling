@@ -4,7 +4,7 @@
 
 ## **<h2 align="center">Front end application  💻</h2>**
 
-## <p><h2 align="center">An application blog developed in the fifth challenge of Ignite's Bootcamp delivered by [Rocketseat](https://app.rocketseat.com.br/dashboard)</h2> </p>
+## <p><h2 align="center">A blog application</h2> </p>
 
 ## <p align="center"> <img src="https://github.com/mathwcruz/next-auth/blob/main/.github/Ignite.png" width="1400px"/> </p>
 
@@ -55,7 +55,5 @@ Desenvolvido por Matheus da Cruz 😊
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 <br>
-
-## **<p align="center">Starting the walk to be able to participate in the marathon in this world of programming 🏃‍</p>**
 
 ### <p> <h2 align="center">Another application by Matheus da Cruz 👨‍💻 </h2> </p>
